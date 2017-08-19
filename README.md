@@ -1,2 +1,2 @@
-# PortalServer
-api server for school management system
+# PortalServer(Django)
+Server backend for School management portal using DRF
